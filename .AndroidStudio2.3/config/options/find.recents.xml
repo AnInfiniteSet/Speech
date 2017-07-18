@@ -1,0 +1,20 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>action</find>
+      <find>onCreateOptions</find>
+      <find>actionbar</find>
+      <find>ActionBar</find>
+      <find>showStatus</find>
+      <find>ResourcesCompat</find>
+      <find>mSpeechServiceListener</find>
+      <find>showS</find>
+      <find>mStatus</find>
+      <find>mSpeechSer</find>
+      <find>mAdapter</find>
+      <find>mRecyclerView</find>
+      <find>getDe</find>
+      <find>mText</find>
+    </findStrings>
+  </component>
+</application>
